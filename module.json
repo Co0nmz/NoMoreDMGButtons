@@ -10,7 +10,7 @@
 	],
 
 	"esmodules": ["NoMoreDMGButtons.mjs"],
-	"styles": ["stub.css"],
+	"styles": ["NoMoreDMGButtons.css"],
 
 	"languages": [
 		{ "lang": "en", "name": "English", "path": "lang/en.json" }
