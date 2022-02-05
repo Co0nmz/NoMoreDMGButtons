@@ -1,0 +1,33 @@
+{
+	"name": "No-More-DMG-Buttons",
+	"title": "No More DMG Buttons",
+	"description": "Removes DMG buttons for players",
+
+	"version": "1.0.0",
+	"author": "Co0n",
+	"authors": [
+		{ "name": "Co0n", "url": "", "discord": "Co0n#7065" },
+	],
+
+	"esmodules": [ "NoMoreDMGButtons.mjs" ],
+	"styles": ["stub.css"],
+
+	"languages": [
+		{ "lang": "en", "name": "English", "path": "lang/en.json" }
+	],
+
+
+	"system": ["pf1"],
+	"minimumSystemVersion": "0.79.4",
+
+	"minimumCoreVersion": "0.8.9",
+	"compatibleCoreVersion": "0.8.9",
+
+	"license": "LICENSE",
+	"readme": "README.md",
+
+	"manifest": "https://gitlab.com/coonmz/no-more-dmg-buttons/-/blob/main/module.json",
+	"download": "https://gitlab.com/coonmz/no-more-dmg-buttons/-/blob/main/NoMoreDMGButtons.zip",
+	"url": "https://gitlab.com/coonmz/no-more-dmg-buttons/-/tree/main",
+	"bugs": "https://gitlab.com/coonmz/no-more-dmg-buttons/-/tree/main"
+}
