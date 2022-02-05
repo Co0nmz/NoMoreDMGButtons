@@ -9,7 +9,7 @@
 		{ "name": "Co0n", "url": "", "discord": "Co0n#7065" },
 	],
 
-	"esmodules": [ "NoMoreDMGButtons.mjs" ],
+	"esmodules": ["NoMoreDMGButtons.mjs"],
 	"styles": ["stub.css"],
 
 	"languages": [
