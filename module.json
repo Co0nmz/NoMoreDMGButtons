@@ -26,8 +26,8 @@
 	"license": "LICENSE",
 	"readme": "README.md",
 
-	"manifest": "https://gitlab.com/coonmz/no-more-dmg-buttons/-/blob/main/module.json",
-	"download": "https://gitlab.com/coonmz/no-more-dmg-buttons/-/blob/main/NoMoreDMGButtons.zip",
-	"url": "https://gitlab.com/coonmz/no-more-dmg-buttons/-/tree/main",
-	"bugs": "https://gitlab.com/coonmz/no-more-dmg-buttons/-/tree/main"
+	"manifest": "https://github.com/Co0nmz/NoMoreDMGButtons/blob/main/module.json",
+	"download": "https://github.com/Co0nmz/NoMoreDMGButtons/blob/main/NoMoreDMGButtons.zip",
+	"url": "https://github.com/Co0nmz/NoMoreDMGButtons/blob/main/",
+	"bugs": "https://github.com/Co0nmz/NoMoreDMGButtons/blob/main/"
 }
