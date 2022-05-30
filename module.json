@@ -7,7 +7,7 @@
 	"author": "Co0n",
 	"authors": [
 		{ "name": "Co0n", "url": "", "discord": "Co0n#7065" },
-	],
+	]
 
 	"esmodules": [ "NoMoreDMGButtons.mjs" ],
 	"styles": ["NoMoreDMGButtons.css"],
